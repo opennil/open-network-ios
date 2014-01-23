@@ -1,4 +1,5 @@
-open-samba-ios
+open-network-ios
 ==============
 
-http://www.samba.org/samba/docs/GPL.html
+### Submodule:
+* samba (http://www.samba.org/samba/docs/GPL.html)
