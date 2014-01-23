@@ -1,4 +1,4 @@
-open-network-ios
+Open Source Network for iOS
 ==============
 
 ### Submodule:
